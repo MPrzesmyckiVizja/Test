@@ -1,5 +1,5 @@
 public class Calculator {
     public int add(int a, int b) {
-        return a + b; // Tu piszesz swój kod
+        return a + b; //
     }
 }
